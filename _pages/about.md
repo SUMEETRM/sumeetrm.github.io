@@ -12,7 +12,7 @@ profile:
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 news: true  # includes a list of news items
-social: false  # includes social icons at the bottom of the page
+social: true  # includes social icons at the bottom of the page
 ---
 
 Hi! I'm an ML Researcher studying Computer Science at UC Berkeley. I'm interested in Multiagent Systems, Cyberdefense, RL, and ML Safety.
