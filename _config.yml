@@ -2,11 +2,11 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Sumeet Motwani # the website title (if blank, full name will be used instead)
+title: blank # the website title (if blank, full name will be used instead)
 first_name: Under
 middle_name:
 last_name: Construction
-email: motwani@berkeley.edu
+email: false
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
 
 keywords: sumeet motwani, machine learning, security, uc berkeley # add your own keywords or leave empty
