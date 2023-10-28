@@ -17,9 +17,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hi! I'm an ML Researcher studying Computer Science at UC Berkeley. I'm working on Multiagent Systems, Cyberdefense, RL, and ML Safety.
 
-Through different points in my undergrad I've been/currently am a part of BAIR, Redwood Research, FoLI, Solana Labs, GEn1E, Convergent Finance.
-
-
+I've been involved with Redwood Research, Solana Labs, Convergent Finance, and GEn1E, and am currently with BAIR, FoLI, and independent research collaborator groups.
 
 <!---
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
