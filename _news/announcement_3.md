@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown
+Completed an internship working on DL for Drug Discovery and Clinical trial site identification at a YC/Khosla Ventures company

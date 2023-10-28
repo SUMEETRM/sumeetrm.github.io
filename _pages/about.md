@@ -15,7 +15,10 @@ news: true  # includes a list of news items
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I'm an ML Researcher studying Computer Science at UC Berkeley. I'm interested in Multiagent Systems, Cyberdefense, RL, and ML Safety.
+Hi! I'm an ML Researcher studying Computer Science at UC Berkeley. I'm working on Multiagent Systems, Cyberdefense, RL, and ML Safety.
+
+Through different points in my undergrad I've been/currently am a part of BAIR, Redwood Research, FoLI, Solana Labs, GEn1E, Convergent Finance.
+
 
 
 <!---
