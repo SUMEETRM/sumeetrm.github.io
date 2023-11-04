@@ -1,4 +1,4 @@
-Hi! I'm an ML Researcher studying Computer Science at UC Berkeley. I'm working on Multiagent Systems, Cyberdefense, RL, and ML Safety.
+Hi! I'm Sumeet Motwani, an ML Researcher studying Computer Science at UC Berkeley. I'm working on Multiagent Systems, Cyberdefense, RL, and ML Safety.
 
 Through different points in my undergrad I've been/currently am a part of BAIR, Redwood Research, FoLI, Solana Labs, GEn1E, Convergent Finance.
 

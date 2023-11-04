@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Coming Soon 2
+Perfect Collusion has been accepted to NeurIPS MASEC Workshop
