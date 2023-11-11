@@ -17,7 +17,9 @@ social: true  # includes social icons at the bottom of the page
 
 Hi! I'm Sumeet Motwani, an ML Researcher studying Computer Science at UC Berkeley. I'm working on Multiagent Systems, Cyberdefense, RL, and ML Safety.
 
-I've been involved with Redwood Research, Solana Labs, Convergent Finance, and GEn1E, and am currently with BAIR, FoLI, and independent research collaborator groups.
+I've been at Redwood Research, Solana Labs, Convergent Finance, and GEn1E, and am currently with BAIR, FoLI, and independent research collaborator groups.
+
+This website is currently under construction.
 
 <!---
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
