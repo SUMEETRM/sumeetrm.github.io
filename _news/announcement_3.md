@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Completed an internship working on DL for Drug Discovery and Clinical trial site identification at GEn1E, a YC/Khosla Ventures company
+Completed an internship working on DL for Drug Discovery and clinical trial site identification at [GEn1E](https://www.gen1e.com/), a YC/Khosla Ventures company

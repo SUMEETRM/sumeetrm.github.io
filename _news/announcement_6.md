@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started at Berkeley AI Research under Professor Dawn Song. Currently under Professor Avideh Zakhor
+Started at [Berkeley AI Research](https://bair.berkeley.edu/students_undergraduate.html) under Professor Dawn Song. Currently under Professor Avideh Zakhor
