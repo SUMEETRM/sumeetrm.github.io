@@ -2,6 +2,7 @@
 ---
 
 @article{arXiv:2309.15257,
+  abbr = {Under review},
   title={STARC: A General Framework For Quantifying Differences Between Reward Functions},
   author={Skalse, J. and Farnik, L. and Motwani, S. R. and Jenner, E. and Gleave, A. and Abate, A.},
   abstract={In order to solve a task using reinforcement learning, it is necessary to first formalise the goal of that task as a reward function. However, for many real-world tasks, it is very difficult to manually specify a reward function that never incentivises undesirable behaviour. As a result, it is increasingly popular to use reward learning algorithms, which attempt to learn a reward function from data. However, the theoretical foundations of reward learning are not yet well-developed. In particular, it is typically not known when a given reward learning algorithm with high probability will learn a reward function that is safe to optimise. This means that reward learning algorithms generally must be evaluated empirically, which is expensive, and that their failure modes are difficult to anticipate in advance. One of the roadblocks to deriving better theoretical guarantees is the lack of good methods for quantifying the difference between reward functions. In this paper we provide a solution to this problem, in the form of a class of pseudometrics on the space of all reward functions that we call STARC (STAndardised Reward Comparison) metrics. We show that STARC metrics induce both an upper and a lower bound on worst-case regret, which implies that our metrics are tight, and that any metric with the same properties must be bilipschitz equivalent to ours. Moreover, we also identify a number of issues with reward metrics proposed by earlier works. Finally, we evaluate our metrics empirically, to demonstrate their practical efficacy. STARC metrics can be used to make both theoretical and empirical analysis of reward learning algorithms both easier and more principled.},
@@ -13,11 +14,15 @@
   dimensions={true}
 }
 
-@inproceedings{NeurIPS:2023:Collusion,
+@inproceedings{NeurIPS:MASEC:2023,
+  abbr = {NeurIPS MASEC},
   title={A Perfect Collusion Benchmark: How can AI agents be prevented from colluding with information-theoretic undetectability?},
   author={Motwani, S. R. and Baranchuk, M. and Hammond, L. and de Witt, C. S.},
   booktitle={Multi-Agent Security Workshop, NeurIPS'23},
   year={2023},
   month={October},
-  abstract={Secret collusion among advanced AI agents is widely considered a significant risk to AI safety. In this paper, we investigate whether LLM agents can learn to collude undetectably through hiding secret messages in their overt communications. To this end, we implement a variant of Simmon’s prisoner problem using LLM agents and turn it into a stegosystem by leveraging recent advances in perfectly secure steganography. We suggest that our resulting benchmark environment can be used to investigate how easily LLM agents can learn to use perfectly secure steganography tools, and how secret collusion between agents can be countered pre-emptively through paraphrasing attacks on communication channels. Our work yields unprecedented empirical insight into the question of whether advanced AI agents may be able to collude unnoticed.}
+  url={https://openreview.net/pdf?id=FXZFrOvIoc},
+  abstract={Secret collusion among advanced AI agents is widely considered a significant risk to AI safety. In this paper, we investigate whether LLM agents can learn to collude undetectably through hiding secret messages in their overt communications. To this end, we implement a variant of Simmon’s prisoner problem using LLM agents and turn it into a stegosystem by leveraging recent advances in perfectly secure steganography. We suggest that our resulting benchmark environment can be used to investigate how easily LLM agents can learn to use perfectly secure steganography tools, and how secret collusion between agents can be countered pre-emptively through paraphrasing attacks on communication channels. Our work yields unprecedented empirical insight into the question of whether advanced AI agents may be able to collude unnoticed.},
+  selected={true},
+  dimensions={true}
 }
