@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://sumeetmotwani.com/</loc>
+        <lastmod>2024-01-08</lastmod> <!-- Use the actual last modified date -->
+        <changefreq>monthly</changefreq> <!-- Estimate how often the page might change -->
+        <priority>1.0</priority> <!-- Highest priority as this is the main page -->
+    </url>
+</urlset>
