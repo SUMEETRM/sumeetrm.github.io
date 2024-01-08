@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://sumeetrm.github.io/sitemap.xml
+Sitemap: https://sumeetmotwani.com/sitemap.xml
