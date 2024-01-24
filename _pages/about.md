@@ -15,13 +15,13 @@ news: true  # includes a list of news items
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I'm Sumeet, an ML Researcher studying Computer Science at UC Berkeley. I'm working on Multiagent Systems, Cyberdefense, RL, and ML Safety.
+Hi! I'm Sumeet, an ML Researcher studying Computer Science at UC Berkeley. I'm working on Multiagent Systems, Security, Reward Learning, and Foundation Model Safety.
 
-I've been at Redwood Research, Solana Labs, Convergent Finance, and GEn1E, and am currently with BAIR, FoLI, and independent research collaborator groups.
+My current research focus is on Language Agents at Berkeley Artificial Intelligence and on Agentic Collusion with research groups in the UK. Previously, I've done internships/residencies at Redwood Research, Solana Labs, Convergent Finance, and GEn1E Lifesciences.
 
-This website is currently under construction.
+This website is under construction.
 
-[LinkedIn](https://www.linkedin.com/in/sumeetmotwani), [Google Scholar](https://scholar.google.com/citations?user=zrKaZuMAAAAJ&hl=en&oi=ao)
+[LinkedIn](https://www.linkedin.com/in/sumeetmotwani), [Google Scholar](https://scholar.google.com/citations?user=zrKaZuMAAAAJ&hl=en&oi=ao), [Future of Life Institute](https://futureoflife.org/person/sumeet-motwani/)
 
 <!---
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
