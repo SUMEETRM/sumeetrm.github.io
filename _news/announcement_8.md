@@ -1,0 +1,1 @@
+Check out a Christian's talk on our ongoing work at [NOLA 2023](https://www.alignment-workshop.com/nola-talks/christian-schroeder-de-witt-secret-collusion-among-generative-ai-agents). Be prepared for some exciting upcoming research!
