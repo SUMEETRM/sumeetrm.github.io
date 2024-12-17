@@ -192,13 +192,12 @@
     {% if entry_has_altmetric_badge or entry_has_dimensions_badge %}
     <div class="badges">
       {%- if site.enable_publication_badges.altmetric and entry_has_altmetric_badge %}
-      <div class="badge-wrapper" style="display: inline-block;">
+      <div class="badge-wrapper">
         <span class="altmetric-embed" 
           data-hide-no-mentions="true" 
           data-hide-less-than="15" 
           data-badge-type="2" 
           data-badge-popover="right"
-          style="width: 100px; display: inline-block;"
           {% if entry.eprint %}
             data-arxiv-id="{{ entry.eprint }}"
           {% elsif entry.doi %}
@@ -215,7 +214,7 @@
       {%- endif %}
       
       {%- if site.enable_publication_badges.dimensions and entry_has_dimensions_badge %}
-      <div class="badge-wrapper" style="display: inline-block;">
+      <div class="badge-wrapper">
         <span class="__dimensions_badge_embed__"
           {% if entry.doi %}
             data-doi="{{ entry.doi }}"
@@ -226,8 +225,7 @@
           {% endif %}
           data-hide-zero-citations="true"
           data-style="small_rectangle"
-          data-legend="hover-right"
-          style="width: 100px; display: inline-block;"></span>
+          data-legend="hover-right"></span>
       </div>
       {%- endif %}
     </div>
@@ -250,18 +248,24 @@
   </div>
 </div>
 
-<!-- Add this to your CSS (in _sass/_base.scss or similar) -->
+<!-- Add this to your CSS (_sass/_base.scss or similar) -->
 <style>
+/* Style for venue badge only */
+.abbr .badge {
+  display: inline-block;
+  width: 108px !important;
+  height: 18px !important;
+  line-height: 18px !important;
+  text-align: center;
+  padding: 0 !important;
+  margin: 0 !important;
+  font-size: 0.75rem !important;
+}
+
 .badges {
   display: flex;
   align-items: center;
   gap: 8px;
   margin-top: 8px;
-}
-
-.badge-wrapper {
-  width: 100px;
-  display: inline-flex;
-  align-items: center;
 }
 </style>
