@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-STARC has been accepted to ICLR 2024!
+[STARC](https://arxiv.org/abs/2309.15257) accepted at ICLR 2024

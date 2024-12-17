@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started as an undergrad CS student at [UC Berkeley](https://www.berkeley.edu/)
+Started at [UC Berkeley](https://www.berkeley.edu/) as an undergraduate CS student

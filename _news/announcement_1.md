@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Accepted to Berkeley's [EECS Honors Program](https://eecs.berkeley.edu/resources/undergrads/honors)
+Accepted to UC Berkeley's [EECS Honors Program](https://eecs.berkeley.edu/resources/undergrads/honors)
 

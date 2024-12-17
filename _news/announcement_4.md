@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Completed a Research Residency at [Redwood Research](https://www.redwoodresearch.org/), focusing on mechanistic interpretability
+Completed an ML Research Residency at [Redwood Research](https://www.redwoodresearch.org/)
