@@ -21,7 +21,8 @@ My current research focus is on Language Agents at Berkeley Artificial Intellige
 
 This website is under construction.
 
-[LinkedIn](https://www.linkedin.com/in/sumeetmotwani), [Google Scholar](https://scholar.google.com/citations?user=zrKaZuMAAAAJ&hl=en&oi=ao), [X](https://x.com/sumeetrm)
+[LinkedIn](https://www.linkedin.com/in/sumeetmotwani) / [Google Scholar](https://scholar.google.com/citations?user=zrKaZuMAAAAJ&hl=en&oi=ao) / [X](https://x.com/sumeetrm)
+{: style="text-align: center;"}
 
 <!---
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
