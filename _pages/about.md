@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: UC Berkeley
+subtitle: University of Oxford
 
 profile:
   align: right
@@ -21,7 +21,7 @@ My current research focus is on Language Agents at Berkeley Artificial Intellige
 
 This website is under construction.
 
-[LinkedIn](https://www.linkedin.com/in/sumeetmotwani), [Google Scholar](https://scholar.google.com/citations?user=zrKaZuMAAAAJ&hl=en&oi=ao), [Future of Life Institute](https://futureoflife.org/person/sumeet-motwani/)
+[LinkedIn](https://www.linkedin.com/in/sumeetmotwani), [Google Scholar](https://scholar.google.com/citations?user=zrKaZuMAAAAJ&hl=en&oi=ao), [X](https://x.com/sumeetrm)
 
 <!---
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
