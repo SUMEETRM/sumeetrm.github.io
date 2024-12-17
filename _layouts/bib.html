@@ -21,7 +21,9 @@
             {%- if site.data.venues[entry.abbr].color != blank -%}
               {%- assign venue_style = site.data.venues[entry.abbr].color | prepend: 'style="background-color:' | append: '"' -%}
             {%- endif -%}
-            <abbr class="badge" style="display: inline-block; padding: 0.25rem 0.5rem; min-width: 80px; text-align: center; font-size: 0.75rem; line-height: 1; border-radius: 0.25rem; margin: 0.125rem;" {% if venue_style %}{{venue_style}}{% endif %}><a href="{{site.data.venues[entry.abbr].url}}" style="color: inherit; text-decoration: none;">{{entry.abbr}}</a></abbr>
+            <abbr class="badge" style="display: inline-block; padding: 0.25rem 0.5rem; min-width: 80px; text-align: center; font-size: 0.75rem; line-height: 1; border-radius: 0.25rem; margin: 0.125rem; {% if site.data.venues[entry.abbr].color != blank %}background-color: {{site.data.venues[entry.abbr].color}};{% endif %}">
+              <a href="{{site.data.venues[entry.abbr].url}}" style="color: inherit; text-decoration: none;">{{entry.abbr}}</a>
+            </abbr>
             {%- else -%}
             <abbr class="badge">{{entry.abbr}}</abbr>
           {%- endif -%}

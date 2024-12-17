@@ -21,7 +21,7 @@ My current research focus is on Language Agents at Berkeley Artificial Intellige
 
 This website is under construction.
 
-[LinkedIn](https://www.linkedin.com/in/sumeetmotwani) / [Google Scholar](https://scholar.google.com/citations?user=zrKaZuMAAAAJ&hl=en&oi=ao) / [X](https://x.com/sumeetrm)
+[LinkedIn](https://www.linkedin.com/in/sumeetmotwani) / [Google Scholar](https://scholar.google.com/citations?user=zrKaZuMAAAAJ&hl=en&oi=ao) / [X](https://x.com/sumeetrm) / [Email](motwani@berkeley.edu)
 {: style="text-align: center;"}
 
 <!---
