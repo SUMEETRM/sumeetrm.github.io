@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started at [Berkeley AI Research](https://bair.berkeley.edu/students_undergraduate.html) under Professor Dawn Song. Currently under Professor Avideh Zakhor
+Joined [Berkeley AI Research](https://bair.berkeley.edu/students_undergraduate.html). Advised by [Dan Hendrycks](https://people.eecs.berkeley.edu/~hendrycks/) and [Dawn Song](https://dawnsong.io/)
