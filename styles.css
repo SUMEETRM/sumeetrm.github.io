@@ -1,0 +1,189 @@
+/* Reset and base styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Georgia, 'Times New Roman', serif;
+    font-size: 16px;
+    line-height: 1.6;
+    color: #333;
+    background-color: #fff;
+}
+
+/* Container */
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 40px 20px;
+}
+
+/* Header */
+header {
+    text-align: center;
+    margin-bottom: 50px;
+    border-bottom: 1px solid #e0e0e0;
+    padding-bottom: 20px;
+}
+
+h1 {
+    font-size: 32px;
+    font-weight: normal;
+    margin-bottom: 15px;
+    font-family: Georgia, serif;
+}
+
+nav {
+    font-size: 16px;
+    color: #666;
+}
+
+nav a {
+    color: #002147;
+    text-decoration: none;
+    margin: 0 5px;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+/* Main content wrapper */
+.content-wrapper {
+    display: flex;
+    gap: 0px;  /* Remove gap completely */
+    align-items: flex-start;
+}
+
+.main-content {
+    flex: 1;
+    padding-right: 20px;  /* Add padding here instead for spacing */
+}
+
+/* Profile photo */
+.profile-photo {
+    flex-shrink: 0;
+    width: 200px;
+}
+
+.profile-photo img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.photo-caption {
+    text-align: center;
+    font-size: 14px;
+    color: #666;
+    margin-top: 10px;
+    line-height: 1.4;
+}
+
+/* Typography */
+h2 {
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 35px;
+    margin-bottom: 15px;
+    font-family: Georgia, serif;
+}
+
+h3 {
+    font-size: 16px;
+    font-weight: normal;
+    margin-bottom: 5px;
+}
+
+h3 a {
+    color: #002676;
+    text-decoration: none;
+}
+
+h3 a:hover {
+    text-decoration: underline;
+}
+
+p {
+    margin-bottom: 15px;
+    text-align: justify;
+}
+
+/* Links */
+a {
+    color: #002676;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Sections */
+section {
+    margin-bottom: 30px;
+}
+
+#about {
+    margin-top: 0;
+}
+
+/* Publications */
+.publication {
+    margin-bottom: 25px;
+}
+
+.authors {
+    font-size: 14px;
+    color: #555;
+    line-height: 1.5;
+}
+
+.more-link {
+    font-size: 14px;
+    color: #002676;
+    font-weight: normal;
+    font-style: italic;
+}
+
+.spotlight {
+    background-color: #f0f0f0;
+    padding: 2px 5px;
+    border-radius: 3px;
+    font-size: 12px;
+    color: #666;
+    font-style: italic;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+    .content-wrapper {
+        flex-direction: column;
+    }
+    
+    .profile-photo {
+        width: 150px;
+        margin: 0 auto;
+    }
+    
+    h1 {
+        font-size: 28px;
+    }
+    
+    p {
+        text-align: left;
+    }
+}
+
+/* Strong text */
+strong {
+    font-weight: bold;
+}
+
+/* Contact section */
+#contact p {
+    text-align: left;
+}
